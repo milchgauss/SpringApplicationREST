@@ -1,0 +1,8 @@
+com/example/demo/Customer.java
+ com.example.demo.Customer
+com/example/demo/LoadCustomers.java
+ com.example.demo.LoadCustomers
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/CustomerRepository.java
+ com.example.demo.CustomerRepository
